@@ -1,0 +1,13 @@
+C:\Users\Felipe\OneDrive\Área de Trabalho\Person_Info_Registration\bin\Debug\netcoreapp3.1\Person_Info_Registration.exe
+C:\Users\Felipe\OneDrive\Área de Trabalho\Person_Info_Registration\bin\Debug\netcoreapp3.1\Person_Info_Registration.deps.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\Person_Info_Registration\bin\Debug\netcoreapp3.1\Person_Info_Registration.runtimeconfig.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\Person_Info_Registration\bin\Debug\netcoreapp3.1\Person_Info_Registration.runtimeconfig.dev.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\Person_Info_Registration\bin\Debug\netcoreapp3.1\Person_Info_Registration.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\Person_Info_Registration\bin\Debug\netcoreapp3.1\Person_Info_Registration.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\Person_Info_Registration\obj\Debug\netcoreapp3.1\Person_Info_Registration.csprojAssemblyReference.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\Person_Info_Registration\obj\Debug\netcoreapp3.1\Person_Info_Registration.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\Person_Info_Registration\obj\Debug\netcoreapp3.1\Person_Info_Registration.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive\Área de Trabalho\Person_Info_Registration\obj\Debug\netcoreapp3.1\Person_Info_Registration.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\Person_Info_Registration\obj\Debug\netcoreapp3.1\Person_Info_Registration.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\Person_Info_Registration\obj\Debug\netcoreapp3.1\Person_Info_Registration.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\Person_Info_Registration\obj\Debug\netcoreapp3.1\Person_Info_Registration.genruntimeconfig.cache
